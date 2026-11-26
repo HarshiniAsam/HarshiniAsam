@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there 👋, I'm Harshini Asam
 
-<!--
-**HarshiniAsam/HarshiniAsam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Graduate (2026)
 
-Here are some ideas to get you started:
+💻 Aspiring Software Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Eager to start my career in the IT industry.
+
+### Technical Skills
+- Java
+- Core Java
+- SQL
+- MySQL
+- HTML
+- CSS
+- JavaScript
+
+### My Projects
+- Hostel Management System
+- Improving Security and Privacy Attribute-Based Data Sharing in Cloud Computing
+
+### Connect with Me
+- GitHub: https://github.com/HarshiniAsam
